@@ -10,58 +10,101 @@
 
 ---
 
-## 🚀 Tech Stack
+## 🔥 GitHub Stats
 
-### **Languages**
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+<!-- Total Contributions, Streak, Longest Streak -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hanad11&theme=tokyonight&hide_border=true" />
+</p>
 
-### **Frameworks & Tools**
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<!-- Overall Stats -->
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Hanad11&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
----
-
-## 📊 GitHub Stats
-
-### 🔥 Streaks
-![GitHub Streak](https://streak-stats.demolab.com?user=Hanad11&theme=react&hide_border=true)
-
-### 📈 Overall Stats
-![Liban's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hanad11&show_icons=true&theme=react&hide_border=true)
-
-### 🧪 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hanad11&layout=compact&theme=react&hide_border=true)
+<!-- Most Used Languages (Compact) -->
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hanad11&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## 📝 Highlighted Projects
+## 📊 Most Used Languages (Bar Style)
 
-### 🚗 **Driver Motion App (Full-Stack Mobile App)**
-- React Native mobile app with background GPS tracking  
-- Node.js/Express REST API with JWT authentication  
-- MySQL database with normalized schema  
-- Real-time driving analytics (speed, braking, idle detection)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hanad11&layout=donut-vertical&theme=tokyonight&hide_border=true" />
+</p>
 
-### 🔒 **AI-Powered Smart Surveillance System**
+---
+
+# 🧰 Tech Stack (Icon Row Style)
+<p align="center">
+
+<!-- JavaScript -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="55" height="55"/>
+
+<!-- C++ -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="55" height="55"/>
+
+<!-- C -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C Language" width="55" height="55"/>
+
+<!-- Python -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="55" height="55"/>
+
+<!-- Linux -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="55" height="55"/>
+
+<!-- Windows -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="55" height="55"/>
+
+<!-- Git -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="55" height="55"/>
+
+<!-- GitHub -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="55" height="55"/>
+
+<!-- Discord -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discordjs/discordjs-original.svg" alt="Discord" width="55" height="55"/>
+
+<!-- Postman -->
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="55" height="55"/>
+
+<!-- VS Code -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="55" height="55"/>
+
+<!-- Visual Studio 2022 -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio 2022" width="55" height="55"/>
+
+<!-- Oracle VirtualBox -->
+<img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="VirtualBox" width="55" height="55"/>
+
+</p>
+
+---
+
+## 📝 Featured Projects
+
+### 🚗 **Driver Motion App (Full-Stack)**
+- React Native mobile app with background GPS  
+- Node.js/Express API with JWT authentication  
+- MySQL database + trip analytics  
+- Real-time driving events (speed, braking, idle detection)
+
+### 🔒 **AI-Powered Smart Surveillance**
 - Python + OpenCV  
-- Real-time face detection & recognition pipeline  
+- Facial recognition + motion detection
 
 ### 🏟️ **Smart Stadium Management System**
 - C# + Avalonia UI  
-- Multiple sensor controllers (lighting, sprinklers, crowd density)  
+- Multi-sensor environment control (lighting, irrigation, crowd density)
 
 ---
 
 ## 👀 Profile Views  
-![views](https://komarev.com/ghpvc/?username=Hanad11&label=Profile%20Views&color=0e75b6&style=flat)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hanad11&label=Profile%20Views&color=blueviolet&style=flat" />
+</p>
 
 ---
 

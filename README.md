@@ -2,28 +2,22 @@
 <h3 align="center">Full-Stack & Mobile Developer | 2nd-Year Honours BCS Student at Conestoga College</h3>
 
 <p align="center">
-A passionate builder who enjoys creating real, production-ready software.  
-Driven by clean architecture, strong fundamentals, and solving meaningful problems.  
+I build full-stack and mobile applications with clean architecture, modern tools, and a strong focus on real-world functionality.  
+My experience spans frontend, backend, databases, systems programming, and mobile development.
 </p>
 
 ---
 
-## 🚀 About Me  
-I'm a 2nd-year Honours Bachelor of Computer Science student specializing in **full-stack development, mobile apps, and systems programming**.  
-I enjoy building end-to-end applications — from backend APIs to mobile UIs — and I've completed several real-world projects using **React Native, Node.js, MySQL, C++, Python, and C#**.
-
-I’m currently sharpening my skills in:
-- Scalable backend development  
-- Mobile performance optimization  
-- API design & authentication  
-- Low-level programming (C/C++)  
-- Cloud deployment  
-- Cybersecurity fundamentals  
+## 🌐 Connect With Me  
+<p align="center">
+<a href="https://www.linkedin.com/in/libannur/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</p>
 
 ---
 
-# 🧰 Tech Stack  
-These are the tools and languages I use confidently across academic, personal, and real-world projects:
+# 🧰 Tech Stack
 
 <p align="center">
 
@@ -34,7 +28,7 @@ These are the tools and languages I use confidently across academic, personal, a
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" title="Python"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="60" title="C#"/>
 
-<!-- FRAMEWORKS & BACKEND -->
+<!-- FRAMEWORKS / BACKEND -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60" title="React Native"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="60" title="Node.js"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="60" title="Express.js"/>
@@ -57,6 +51,7 @@ These are the tools and languages I use confidently across academic, personal, a
 ---
 
 # 📈 GitHub Insights  
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hanad11&theme=tokyonight&hide_border=true" />
 </p>
@@ -71,12 +66,18 @@ These are the tools and languages I use confidently across academic, personal, a
 
 ---
 
-# 🎯 Skill Levels (Honest + Hard-Coded)
+# 🎯 Skill Levels
 
-These reflect your **actual engineering proficiency** based on all your work so far (Driver Motion App, Smart Stadium System, AI Surveillance, socket labs, C++ assignments, Python projects, backend APIs, etc.)
-
-> **Bars show real % visually — not auto-fetched.**
-
-### JavaScript — 75%
 ```text
-███████████████████████████░░░░░░ 75%
+JavaScript        ███████████████████████████░░░░░░ 75%
+Python            █████████████████████████░░░░░░░░ 70%
+C++               ██████████████████████░░░░░░░░░░░ 65%
+C                 █████████████████████░░░░░░░░░░░░ 60%
+C#                ███████████████████░░░░░░░░░░░░░░ 55%
+Git/GitHub        ███████████████████████████░░░░░░ 75%
+Postman           ██████████████████████████████░░░ 80%
+Linux             █████████████████████░░░░░░░░░░░░ 60%
+Windows           █████████████████████████████████ 90%
+VS Code           █████████████████████████████░░░░ 85%
+Visual Studio     ███████████████████████░░░░░░░░░░ 70%
+VirtualBox        ██████████████████████░░░░░░░░░░░ 65%
